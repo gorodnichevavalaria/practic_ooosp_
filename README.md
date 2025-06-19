@@ -1,4 +1,4 @@
-# practic_ooosp_
+
 SimpleCalculator - практическое задание 1
 AdvancedCalculator - практическое задание 2
 pr_3  - практическое задание 3
